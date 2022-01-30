@@ -27,7 +27,7 @@ def take_snapshot():
 
  
 def upload_file(img_name):
-    access_token = "sl.BA73kvJDOcgzlQ0HpOyOpqbYiGJEdVt_NxMmXqOkcM-qfLtllnLfa-AQxkoh44HdYrlcYR4aaBmz5dP45DwBfm6AM0JZmRMyF3sSmNJcNZZf2XVSZVPbp-eVG6dpePgEbaN44TQ"
+    access_token = "<<Enter your access code here of your Dropbox>>"
     file =img_name
     file_from = file
     file_to="/Security Cam_Arpit/"+(img_name)
